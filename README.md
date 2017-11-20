@@ -54,7 +54,7 @@ Group reagents and supplies<br />
 •	Let Shreya know if we are running low on reagents or supplies by writing on the white board<br />
 
 Safety Training <br />
-All lab members should be up to date on the following safety trainings:<br />
+All lab members should be up to date on safety trainings. Please sign-up on ehs.umass.edu/trainings and then email a pdf of your certificate to Shreya for the following safety trainings:<br />
 •	Lab Safety (classroom, every 5 years) <br />
 •	Fire Safety (classroom, every five years) <br />
 •	Bio Safety (classroom, every five years) <br />
