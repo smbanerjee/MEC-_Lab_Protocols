@@ -56,8 +56,8 @@ Group reagents and supplies<br />
 Safety Training <br />
 All lab members should be up to date on safety trainings. Please sign-up on ehs.umass.edu/trainings and then email a pdf of your certificate to Shreya for the following safety trainings:<br />
 •	Lab Safety (classroom, every 5 years) <br />
-•	Fire Safety (classroom, every five years) <br />
-•	Bio Safety (classroom, every five years) <br />
+•	Fire Safety (classroom, every 5 years) <br />
+•	Bio Safety (classroom, every 5 years) <br />
 •	Lab Safety refresher (online, every year w/o classroom training)<br />
 •	Fire Safety refresher (online, every year w/o classroom training)<br />
 •	Bio Safety refresher (online, every year w/o classroom training)<br />
