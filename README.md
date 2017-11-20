@@ -40,15 +40,15 @@ Waste disposal<br />
 •	Regular trash (i.e. kimwipes, tips, plastic wrap) needs to go in trash bins, not recycling, the sharps tub or the glass box<br />
 
 Washing equipment<br />
-•	Properly dispose of contents, if you’re unsure where contents go consult SDS or ask someone
-•	Remove lab tape label
-•	Rinse with water
-•	Dunk in 10% bleach solution three times
-•	Rinse with water twice
-•	Allow to dry on bench paper
-•	Please put away when dry 
+•	Properly dispose of contents, if you’re unsure where contents go consult SDS or ask someone<br />
+•	Remove lab tape label<br />
+•	Rinse with water<br />
+•	Dunk in 10% bleach solution three times<br />
+•	Rinse with water twice<br />
+•	Allow to dry on bench paper<br />
+•	Please put away when dry <br />
 
 Group reagents and supplies<br />
-•	If you leave a communal reagent solution bottle (TE, gel mix, etc.) less than one fourth full, please make more or write on white       board 
-•	If you use up a reagent bottle (ethanol, etc.) remove the barcode sticker from the bottle and place it on the chemical inventory         disposal log taped up by the door, and recycle the empty bottle
-•	Let Shreya know if we are running low on reagents or supplies by writing on the white board
+•	If you leave a communal reagent solution bottle (TE, gel mix, etc.) less than one fourth full, please make more or write on white       board <br />
+•	If you use up a reagent bottle (ethanol, etc.) remove the barcode sticker from the bottle and place it on the chemical inventory         disposal log taped up by the door, and recycle the empty bottle<br />
+•	Let Shreya know if we are running low on reagents or supplies by writing on the white board<br />
