@@ -52,3 +52,12 @@ Group reagents and supplies<br />
 •	If you leave a communal reagent solution bottle (TE, gel mix, etc.) less than one fourth full, please make more or write on white       board <br />
 •	If you use up a reagent bottle (ethanol, etc.) remove the barcode sticker from the bottle and place it on the chemical inventory         disposal log taped up by the door, and recycle the empty bottle<br />
 •	Let Shreya know if we are running low on reagents or supplies by writing on the white board<br />
+
+Safety Training <br />
+All lab members should be up to date on the following safety trainings:<br />
+•	Lab Safety (classroom, every 5 years) <br />
+•	Fire Safety (classroom, every five years) <br />
+•	Bio Safety (classroom, every five years) <br />
+•	Lab Safety refresher (online, every year w/o classroom training)<br />
+•	Fire Safety refresher (online, every year w/o classroom training)<br />
+•	Bio Safety refresher (online, every year w/o classroom training)<br />
